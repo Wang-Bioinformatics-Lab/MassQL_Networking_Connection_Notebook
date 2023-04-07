@@ -28,3 +28,8 @@ Additional documentation will go into docs.
 ### Best Practices
 
 Commit and save changes often and push to github. 
+
+### Launching in MyBinder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Wang-Bioinformatics-Lab/MassQL_Networking_Connection_Notebook/HEAD)
+
