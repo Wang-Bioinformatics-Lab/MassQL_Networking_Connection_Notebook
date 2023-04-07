@@ -7,7 +7,7 @@ services:
       dockerfile: Dockerfile
     container_name: wanglab-jupyter-massqlnetworking
     volumes:
-      - .:/home/jovyan/work:rw
+      - .:/home/jovyan:rw
     ports:
     - "9005:9000"
     restart: unless-stopped
